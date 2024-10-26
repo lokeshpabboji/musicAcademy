@@ -1,0 +1,115 @@
+{
+    "Courses": [
+      {
+        "id": 1,
+        "title": "Guitar Fundamentals",
+        "slug": "guitar-fundamentals",
+        "description": "Learn the basics of playing guitar with our comprehensive beginner's course.",
+        "price": 99.99,
+        "instructor": "John Doe",
+        "isFeatured": true,
+        "image": "/courses/guitar.jpg"
+      },
+      {
+        "id": 2,
+        "title": "Advanced Guitar Techniques",
+        "slug": "advanced-guitar-techniques",
+        "description": "Master advanced guitar techniques in this challenging course.",
+        "price": 149.99,
+        "instructor": "Jane Smith",
+        "isFeatured": true,
+        "image": "/courses/advanced-guitar.jpg"
+      },
+      {
+        "id": 3,
+        "title": "Music Theory 101",
+        "slug": "music-theory-101",
+        "description": "An essential course on the fundamentals of music theory.",
+        "price": 79.99,
+        "instructor": "Mike Johnson",
+        "isFeatured": true,
+        "image": "/courses/music-theory.jpg"
+      },
+      {
+        "id": 4,
+        "title": "Blues Guitar Basics",
+        "slug": "blues-guitar-basics",
+        "description": "Learn to play the blues with this introductory course.",
+        "price": 89.99,
+        "instructor": "Sarah Lee",
+        "isFeatured": false,
+        "image": "/courses/blues-guitar.jpg"
+      },
+      {
+        "id": 5,
+        "title": "Jazz Improvisation",
+        "slug": "jazz-improvisation",
+        "description": "Improve your jazz improvisation skills with expert guidance.",
+        "price": 129.99,
+        "instructor": "Chris King",
+        "isFeatured": true,
+        "image": "/courses/jazz-improvisation.jpg"
+      },
+      {
+        "id": 6,
+        "title": "Rock Guitar Essentials",
+        "slug": "rock-guitar-essentials",
+        "description": "Get to grips with rock guitar fundamentals in this dynamic course.",
+        "price": 119.99,
+        "instructor": "Alex Turner",
+        "isFeatured": false,
+        "image": "/courses/rock-guitar.jpg"
+      },
+      {
+        "id": 7,
+        "title": "Classical Guitar Mastery",
+        "slug": "classical-guitar-mastery",
+        "description": "Explore the world of classical guitar with this in-depth course.",
+        "price": 139.99,
+        "instructor": "Clara Wong",
+        "isFeatured": true,
+        "image": "/courses/classical-guitar.jpg"
+      },
+      {
+        "id": 8,
+        "title": "Fingerstyle Guitar",
+        "slug": "fingerstyle-guitar",
+        "description": "Perfect your fingerstyle guitar techniques with professional tips.",
+        "price": 109.99,
+        "instructor": "Marcus Brown",
+        "isFeatured": false,
+        "image": "/courses/fingerstyle-guitar.jpg"
+      },
+      {
+        "id": 9,
+        "title": "Acoustic Guitar Basics",
+        "slug": "acoustic-guitar-basics",
+        "description": "Start your acoustic guitar journey with this beginner's guide.",
+        "price": 89.99,
+        "instructor": "Emma Wilson",
+        "isFeatured": true,
+        "image": "/courses/acoustic-guitar.jpg"
+      },
+      {
+        "id": 10,
+        "title": "Electric Guitar Techniques",
+        "slug": "electric-guitar-techniques",
+        "description": "Dive into the world of electric guitar with this comprehensive course.",
+        "price": 129.99,
+        "instructor": "Liam Johnson",
+        "isFeatured": true,
+        "image": "/courses/electric-guitar.jpg"
+      },
+      {
+        "id": 11,
+        "title": "Songwriting for Guitarists",
+        "slug": "songwriting-for-guitarists",
+        "description": "Learn the art of songwriting and composition on the guitar.",
+        "price": 159.99,
+        "instructor": "Nina Roberts",
+        "isFeatured": true,
+        "image": "/courses/songwriting-guitar.jpg"
+      }
+    ]
+  }
+  
